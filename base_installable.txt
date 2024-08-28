@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <title>Activity 1</title>
+</head>
+<body>
+    <h2>Links in HTML</h2>
+    <a href="https://www.google.com/
+    ">Google</a>
+</body>
+</html>
+
+
